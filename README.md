@@ -40,11 +40,11 @@ Bienvenido al proyecto **Calidad Total S.A.S**: una aplicación web intuitiva, m
 ## 🛠️ Tecnologías usadas
 
 - **HTML5** + **CSS3** + **JavaScript**
-- **SweetAlert2** (UI de notificaciones)
-- **Font Awesome** (íconos)
-- **Google Apps Script** (backend sin servidor)
+- **SweetAlert2**
+- **Font Awesome**
+- **Google Apps Script** 
 - **Google Sheets** & **Google Drive API**
 
 ---
 ### Creador:
-*Liang José Reyes Luzardo - Tecnologo en Analisis y de Desarrollo de Software.*
+*Liang José Reyes Luzardo - Tecnologo en Analisis y Desarrollo de Software.*
